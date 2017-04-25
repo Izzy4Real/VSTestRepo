@@ -12,7 +12,7 @@ namespace GitHubVSTestConsoleApp
         {
             Console.Write("hello world!");
             Console.Write("made a change");
-            Console.WriteLine("here's another change!");
+            Console.WriteLine("That last change was NOT from CMK!!!");
         }
     }
 }
