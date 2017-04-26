@@ -11,6 +11,7 @@ namespace GitHubVSTestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Upload File Practice");
+            Console.WriteLine("Upload File Practice 2");
         }
     }
 }
